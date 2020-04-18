@@ -1,0 +1,4 @@
+
+*  docker network create $NETWORK $NETWORK_OPTIONS
+*  docker-compose pull
+*  docker-compose up -d
