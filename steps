@@ -1,4 +1,4 @@
 
-*  docker network create $NETWORK $NETWORK_OPTIONS
+*  docker network create nginx-web
 *  docker-compose pull
 *  docker-compose up -d
