@@ -1,4 +1,5 @@
 data
 .env*
-!.env.sample
+!.env.dev
+!.env.prod
 .DS_Store
